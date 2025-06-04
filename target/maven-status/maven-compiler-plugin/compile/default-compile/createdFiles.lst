@@ -1,0 +1,17 @@
+com\jiralite\servlets\BugSubmissionServlet.class
+com\jiralite\model\Bug.class
+com\jiralite\servlets\EditUserServlet.class
+com\jiralite\servlets\AddUserServlet.class
+com\jiralite\servlets\DashboardServlet.class
+com\jiralite\utils\DBUtil.class
+com\jiralite\servlets\BugListServlet.class
+com\jiralite\servlets\LoginServlet.class
+com\jiralite\servlets\UserListServlet.class
+com\jiralite\model\User.class
+com\jiralite\servlets\DeleteUserServlet.class
+com\jiralite\filters\AuthFilter.class
+com\jiralite\listeners\CleanupListener.class
+com\jiralite\servlets\BugDeleteServlet.class
+com\jiralite\servlets\LogoutServlet.class
+com\jiralite\servlets\BugEditServlet.class
+com\jiralite\servlets\BugUpdateServlet.class
