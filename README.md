@@ -30,6 +30,7 @@ JIRA Lite is a lightweight web-based bug tracking application built using Java S
 
 ## 📁 Project Structure
 
+<pre>
 JIRALite/
 │
 ├── src/
@@ -62,8 +63,7 @@ JIRALite/
 │       │           │   └── Bug.java
 │       │           │
 │       │           ├── utils/
-│       │              └── DBUtil.java
-│       │                        
+│       │           │   └── DBUtil.java
 │
 ├── WebContent/
 │   ├── login.jsp
@@ -76,22 +76,18 @@ JIRALite/
 │   ├── add-user.jsp
 │   ├── edit-user.jsp
 │   ├── error.jsp
-|   ├── submit-bug.jsp
-|    ├── reportBug.jsp
-|   ├── dashboard.jsp
-|   ├── index.jsp
+│   ├── submit-bug.jsp
+│   ├── reportBug.jsp
+│   ├── dashboard.jsp
+│   ├── index.jsp
 │   └── WEB-INF/
 │       └── web.xml
 │
-│
 ├── lib/                          # External JARs (e.g., MySQL JDBC)
-│
 ├── README.md
 ├── .gitignore
 └── build.xml or pom.xml          # Depending on Ant or Maven
-
-
----
+</pre>
 
 ## 🔐 Authentication & Authorization
 
